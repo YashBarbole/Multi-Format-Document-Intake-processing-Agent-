@@ -1,0 +1,16 @@
+From: john.doe@company.com
+Subject: Urgent RFQ for Office Supplies
+
+Hi there,
+
+We need to place an urgent order for the following office supplies:
+- 500 units of A4 paper
+- 100 black ink cartridges  
+- 50 staplers
+
+Please send quote by end of week. This is high priority.
+
+Best regards,
+John Doe
+Procurement Manager
+Phone: (555) 123-4567

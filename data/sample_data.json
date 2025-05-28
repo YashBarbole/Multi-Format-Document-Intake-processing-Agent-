@@ -1,0 +1,11 @@
+{
+    "invoice_id": "INV-2024-001",
+    "date": "2024-01-15",
+    "customer_name": "ABC Corp",
+    "items": [
+        {"name": "Widget A", "quantity": 10, "price": 25.99},
+        {"name": "Widget B", "quantity": 5, "price": 45.50}
+    ],
+    "total": 487.40,
+    "status": "pending"
+}

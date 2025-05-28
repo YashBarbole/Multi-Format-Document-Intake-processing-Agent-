@@ -1,0 +1,23 @@
+[This is a placeholder for a PDF file]
+
+INVOICE
+
+Invoice Number: INV-2024-001
+Date: January 15, 2024
+
+Bill To:
+Sample Company Inc.
+123 Business Street
+Business City, BC 12345
+
+Items:
+1. Product A - $100.00
+2. Product B - $150.00
+3. Service C - $200.00
+
+Subtotal: $450.00
+Tax (10%): $45.00
+Total: $495.00
+
+Note: This is a text representation of what would normally be a PDF file.
+In a real implementation, this would be an actual PDF document. 

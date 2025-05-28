@@ -566,7 +566,7 @@ async def main_page():
         <body>
             <div class="app-container">
                 <aside class="sidebar">
-                    <h1>Document Processing</h1>
+                    <h1>Document Processing Assistant</h1>
                     <div class="history-section">
                         <h2>📊 Processing History</h2>
                         <div id="historyBox" class="history-box"></div>

@@ -2,7 +2,7 @@
 
 A modern web application for processing and analyzing various document formats including PDF, JSON, and Email content. Built with FastAPI and modern web technologies.
 
-![Application Preview](./assets/images/main-preview.png)
+![Application Preview](./assets/images/1.png)
 
 ## Features
 
